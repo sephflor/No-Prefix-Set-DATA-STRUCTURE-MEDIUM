@@ -1,1 +1,1 @@
-# No-Prefix-Set-DATA-STRUCTURE-MEDIUM
+# No-Prefix-Set-DATA-STRUCTURE-MEDIUM.This solution uses a Trie to detect if any word in the list is a prefix of another word. It checks during insertion if the current word is a prefix of an existing word or if an existing word is a prefix of the current word, and stops at the first violation.
